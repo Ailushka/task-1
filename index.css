@@ -115,6 +115,16 @@ progress::-webkit-progress-value {
   border-radius: 10px;
 }
 
+progress::-webkit-progress-bar {
+  border-radius: 10px;
+}
+
+progress::-moz-progress-bar {
+  background: #ffffff;
+  height: 7px;
+  border-radius: 10px;
+}
+
 .article {
   margin-bottom: 45px;
 }
